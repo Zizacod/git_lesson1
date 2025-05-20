@@ -1,0 +1,7 @@
+README.md
+
+.vscode/
+
+*.log
+
+logs/*.log
